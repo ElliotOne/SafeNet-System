@@ -43,12 +43,11 @@ Default password: "password"
 **Warning: Do not use this tool in production or shared environments without further security hardening.**
 
 ## How to Use
-
-1. **Clone or download the repository.**
-2. **Open the project in Visual Studio.**
-3. **Build and run the project.**
-4. **A password prompt will appear. Use the default password or modify safenet.pass before launching.**
-5. **After entering the correct password, the system is unlocked.**
+1. Clone or download the repository.
+2. Open the project in Visual Studio.
+3. Build and run the project.
+4. A password prompt will appear. Use the default password or modify safenet.pass before launching.
+5. After entering the correct password, the system is unlocked.
 
 ## Disclaimer
 This project is intended for educational use only. Improper use of system-level hooks or registry modifications can lead to a poor user experience or even lock you out of your system. Use with caution and always test in a controlled environment.
